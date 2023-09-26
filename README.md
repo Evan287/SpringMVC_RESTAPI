@@ -16,4 +16,4 @@ This Commands API stores command line snippets along with a short description of
   <li>fill out later....</li>
 </ul>
 <h2>Application Architecture:</h2>
-<img src="https://user-images.githubusercontent.com/59063950/91676248-3553ad80-eb0d-11ea-8fc7-e674ef0784a4.png"/>
+<img src="https://terasolunaorg.github.io/guideline/1.0.1.RELEASE/en/_images/RequestLifecycle.png" width="700" height="500"/>
