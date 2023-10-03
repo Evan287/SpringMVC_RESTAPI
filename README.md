@@ -32,6 +32,6 @@ This Commands API stores command line snippets along with a short description of
 
 <h2>Sample endpoints using Postman</h2>
 <h3>[HTTP POST] Creates a new command</h3>
-<img src="https://github.com/Evan287/SpringMVC_RESTAPI/assets/110309927/45fc75db-b38e-426d-af65-179468cc0bfc" height="500"/>
+<img src="https://github.com/Evan287/SpringMVC_RESTAPI/assets/110309927/45fc75db-b38e-426d-af65-179468cc0bfc"/>
 <h3>[HTTP GET] Gets all commands by the given operating system name</h3>
-<img src="https://github.com/Evan287/SpringMVC_RESTAPI/assets/110309927/679cee5f-65ea-445d-9f09-8abcd15f4cc2" height="500" />
+<img src="https://github.com/Evan287/SpringMVC_RESTAPI/assets/110309927/679cee5f-65ea-445d-9f09-8abcd15f4cc2"  />
