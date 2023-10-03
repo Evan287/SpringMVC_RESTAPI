@@ -1,0 +1,5 @@
+com\commands\api\commandsAPI\controllers\CommandController.class
+com\commands\api\commandsAPI\entities\Command.class
+com\commands\api\commandsAPI\repositories\CommandRepository.class
+com\commands\api\commandsAPI\services\CommandService.class
+com\commands\api\commandsAPI\CommandsApiApplication.class
